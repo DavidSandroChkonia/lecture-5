@@ -1,0 +1,143 @@
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 30px;
+}
+
+.logo img {
+	height: 120px;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+nav ul {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+nav ul a {
+	text-decoration: none;
+	margin-right: 20px;
+	font-size: 12px;
+}
+
+h2 {
+	margin-left: 180px;
+}
+
+.container h4 {
+	position: absolute;
+	padding-left: 37px;
+	padding-bottom: 29px;
+}
+
+.boxonbox {
+	display: inline-block;
+	vertical-align: top;
+    width: 300px;
+    margin-left: 120px;
+    padding-left: 50px;
+    padding-top: 39px;
+}
+
+.container2 h2{
+    display: inline-block;
+    margin-top: 103px;
+    margin-bottom: 50px;
+}
+
+.container2 .div2 p {
+	position: absolute;
+	padding-left: 45px;
+	padding-bottom: 29px;
+	font-size: 36px;
+	margin-left: 40px;
+}
+ 
+.sanfrancisco  {
+	margin-bottom: 40px;
+    margin-left: 140px;
+}
+.wood {
+	margin-top: 40px;
+	margin-left: 140px;
+}
+
+.ciyvi {
+	margin-left: 1000px;
+	padding-left: 70px;
+}
+
+.gza {
+	margin-left: 1070px;
+	padding-top: 50px;
+}
+
+.pingvin {
+    margin-left: 1070px;
+	padding-top: 50px;
+}
+ footer p {
+   margin-bottom:60px;
+   margin-left: 50px;
+   font-size: 12px;
+}
+
+ul li a {
+   text-decoration: none;
+   margin-top: 100px;
+}
+
+ul.list1{
+	display: inline-block;
+    list-style-type: none;	
+    margin-left: 200px;
+    margin-bottom: 200px;
+    font-size: 12px;
+}
+
+ul.list2 {
+	display: inline-block;
+    list-style-type: none;	
+    margin-left: 200px;
+    margin-bottom: 200px;
+    font-size: 12px;
+}
+ul.list3 {
+	display: inline-block;
+    list-style-type: none;	
+    margin-left: 200px;
+    margin-bottom: 200px;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+  
+  
+
+
+
+
+
+
